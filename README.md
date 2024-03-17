@@ -1,2 +1,2 @@
 # Ascii_art
-Just an Ascii Art.
+Just an Ascii Art. :D
